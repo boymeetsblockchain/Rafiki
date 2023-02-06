@@ -20,12 +20,12 @@ function Header() {
               <FaWater />
             </a>
           </li>
-          <li className="header-button lg:bg-gray-200 rounded-md py-2 px-3 mx-2 hover:bg-gray-300 d-none sm:d-inline">
+          <li className="header-button hidden md:block lg:block bg-gray-200 rounded-md py-2 px-3 mx-2 hover:bg-gray-300 d-none sm:d-inline">
             <a href="#">
               <FaDiscord />
             </a>
           </li>
-          <li className="header-button lg:bg-gray-200 rounded-md py-2 px-3 mx-2 hover:bg-gray-300 d-none sm:d-inline">
+          <li className="header-button hidden md:block lg:block bg-gray-200 rounded-md py-2 px-3 mx-2 hover:bg-gray-300 d-none sm:d-inline">
             <a href="#">
               <FaTwitter />
             </a>
